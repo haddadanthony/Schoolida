@@ -1,0 +1,26 @@
+{
+  "name": "Schoolida",
+  "version": "1.0.0",
+  "description": "Schoolida is a famous school in Lebanon. Because of the current corona situation, Schoolida was obliged to send its staff and students to their homes. This did not only affect the teacher-student communication, but also the communication in between staff. Having this, Schoolida is looking to implement an online system that manages the school.",
+  "main": "App.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haddadanthony/Schoolida.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haddadanthony/Schoolida/issues"
+  },
+  "homepage": "https://github.com/haddadanthony/Schoolida#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.0",
+    "neat-csv": "^5.2.0"
+  }
+}

@@ -1,3 +1,7 @@
+# Install
+
+To run code, please run npm install after cloning. add details in schoolda.csv then enter npm start.
+
 # Schoolida
 
 Schoolida is a famous school in Lebanon. Because of the current corona situation, Schoolida was obliged to send its staff and students to their homes. This did not only affect the teacher-student communication, but also the communication in between staff. Having this, Schoolida is looking to implement an online system that manages the school.

@@ -1,0 +1,23 @@
+[
+  {
+    "first_name": "Rudy",
+    "last_name": "Chakhtoura",
+    "father_name": "George",
+    "mother_name": "Maggie",
+    "schoolida_email": "rudy_chakhtoura@schoolida.com"
+  },
+  {
+    "first_name": "Elie",
+    "last_name": "Saad",
+    "father_name": "Michael",
+    "mother_name": "Anna",
+    "schoolida_email": "elie_saad@schoolida.com"
+  },
+  {
+    "first_name": "blabla",
+    "last_name": "mama",
+    "father_name": "baba",
+    "mother_name": "sisi",
+    "schoolida_email": "blabla@schoolida.com"
+  }
+]
